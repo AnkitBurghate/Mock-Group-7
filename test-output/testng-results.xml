@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Check box is not selected TC is failed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-14T15:20:00 IST" name="Default suite" finished-at="2022-12-14T15:20:12 IST" duration-ms="12244">
+    <groups>
+    </groups>
+    <test started-at="2022-12-14T15:20:00 IST" name="Default test" finished-at="2022-12-14T15:20:12 IST" duration-ms="12244">
+      <class name="VerificationUsingTestNG.VerifyCheckBoxIsSelected">
+        <test-method signature="testing()[pri:0, instance:VerificationUsingTestNG.VerifyCheckBoxIsSelected@194bcebf]" started-at="2022-12-14T15:20:00 IST" name="testing" finished-at="2022-12-14T15:20:12 IST" duration-ms="12139" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Check box is not selected TC is failed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- VerificationUsingTestNG.VerifyCheckBoxIsSelected -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
